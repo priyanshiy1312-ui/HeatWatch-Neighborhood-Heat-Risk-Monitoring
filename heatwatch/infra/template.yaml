@@ -1,0 +1,107 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: HeatWatch - neighbourhood heat and water-stress early warning (API, alerts, scheduler)
+
+Parameters:
+  AlertEmail:
+    Type: String
+    Default: ""
+    Description: Optional email to subscribe to heat alerts (confirm the SNS email after deploy)
+  BedrockModelId:
+    Type: String
+    Default: anthropic.claude-3-haiku-20240307-v1:0
+    Description: Bedrock model you have access to in this region (Bedrock console > Model access)
+  AlertMinPriority:
+    Type: String
+    Default: "60"
+
+Conditions:
+  HasEmail: !Not [!Equals [!Ref AlertEmail, ""]]
+
+Globals:
+  Function:
+    Runtime: python3.12
+    MemorySize: 512
+    Environment:
+      Variables:
+        HEATWATCH_DATA_DIR: /var/task/data
+        BEDROCK_ENABLED: "1"
+        BEDROCK_MODEL_ID: !Ref BedrockModelId
+        ALERT_TOPIC_ARN: !Ref AlertTopic
+        ALERTS_TABLE: !Ref AlertsTable
+        ALERT_MIN_PRIORITY: !Ref AlertMinPriority
+
+Resources:
+  AlertTopic:
+    Type: AWS::SNS::Topic
+    Properties:
+      DisplayName: HeatWatch
+
+  AlertEmailSubscription:
+    Type: AWS::SNS::Subscription
+    Condition: HasEmail
+    Properties:
+      TopicArn: !Ref AlertTopic
+      Protocol: email
+      Endpoint: !Ref AlertEmail
+
+  AlertsTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: alert_id
+          AttributeType: S
+      KeySchema:
+        - AttributeName: alert_id
+          KeyType: HASH
+
+  ApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../backend/
+      Handler: app.main.handler
+      Timeout: 29
+      Policies:
+        - SNSPublishMessagePolicy:
+            TopicName: !GetAtt AlertTopic.TopicName
+        - DynamoDBCrudPolicy:
+            TableName: !Ref AlertsTable
+        - Statement:
+            - Effect: Allow
+              Action: [bedrock:InvokeModel, bedrock:Converse]
+              Resource: "*"
+      Events:
+        Api:
+          Type: HttpApi
+          Properties:
+            Path: /{proxy+}
+            Method: ANY
+
+  AlertJobFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: ../backend/
+      Handler: app.jobs.scheduled_handler
+      Timeout: 120
+      Policies:
+        - SNSPublishMessagePolicy:
+            TopicName: !GetAtt AlertTopic.TopicName
+        - DynamoDBCrudPolicy:
+            TableName: !Ref AlertsTable
+        - Statement:
+            - Effect: Allow
+              Action: [bedrock:InvokeModel, bedrock:Converse]
+              Resource: "*"
+      Events:
+        Every3Hours:
+          Type: Schedule
+          Properties:
+            Schedule: rate(3 hours)
+
+Outputs:
+  ApiUrl:
+    Description: Set this as VITE_API_URL when building the frontend
+    Value: !Sub "https://${ServerlessHttpApi}.execute-api.${AWS::Region}.amazonaws.com"
+  AlertTopicArn:
+    Value: !Ref AlertTopic

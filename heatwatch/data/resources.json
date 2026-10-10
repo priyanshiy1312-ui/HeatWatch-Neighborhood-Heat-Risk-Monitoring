@@ -1,0 +1,1090 @@
+[
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "walled-city",
+  "lat": 26.92745,
+  "lon": 75.82956,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "walled-city",
+  "lat": 26.92662,
+  "lon": 75.83294,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "walled-city",
+  "lat": 26.9281,
+  "lon": 75.82251,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "walled-city",
+  "lat": 26.92381,
+  "lon": 75.82463,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "walled-city",
+  "lat": 26.9245,
+  "lon": 75.82518,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "walled-city",
+  "lat": 26.92499,
+  "lon": 75.82862,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "walled-city",
+  "lat": 26.91947,
+  "lon": 75.8293,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "walled-city",
+  "lat": 26.92656,
+  "lon": 75.82721,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.9368,
+  "lon": 75.78358,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.93178,
+  "lon": 75.78583,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.93895,
+  "lon": 75.7882,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.92746,
+  "lon": 75.78757,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.93228,
+  "lon": 75.78618,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.93004,
+  "lon": 75.79445,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.94041,
+  "lon": 75.78825,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "bani-park",
+  "lat": 26.93917,
+  "lon": 75.79633,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "bani-park",
+  "lat": 26.92901,
+  "lon": 75.79025,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "bani-park",
+  "lat": 26.93421,
+  "lon": 75.78663,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90091,
+  "lon": 75.79803,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90527,
+  "lon": 75.79937,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90708,
+  "lon": 75.80317,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90318,
+  "lon": 75.80083,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90771,
+  "lon": 75.80065,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90159,
+  "lon": 75.80426,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90567,
+  "lon": 75.79832,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90126,
+  "lon": 75.80526,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.89985,
+  "lon": 75.80563,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90702,
+  "lon": 75.79675,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90199,
+  "lon": 75.80438,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "c-scheme",
+  "lat": 26.911,
+  "lon": 75.80543,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90815,
+  "lon": 75.801,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90534,
+  "lon": 75.79653,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "c-scheme",
+  "lat": 26.91077,
+  "lon": 75.80008,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "c-scheme",
+  "lat": 26.90524,
+  "lon": 75.80013,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.9004,
+  "lon": 75.83458,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.89909,
+  "lon": 75.83007,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.90078,
+  "lon": 75.82827,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.89816,
+  "lon": 75.83093,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.90366,
+  "lon": 75.83387,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.90204,
+  "lon": 75.82761,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.90211,
+  "lon": 75.83359,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.8987,
+  "lon": 75.83764,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "raja-park",
+  "lat": 26.89951,
+  "lon": 75.82437,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "raja-park",
+  "lat": 26.9003,
+  "lon": 75.83195,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "raja-park",
+  "lat": 26.90331,
+  "lon": 75.82955,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85422,
+  "lon": 75.81919,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.84708,
+  "lon": 75.81326,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.84675,
+  "lon": 75.80941,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85452,
+  "lon": 75.80515,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85599,
+  "lon": 75.81601,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.8565,
+  "lon": 75.80969,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85065,
+  "lon": 75.80816,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85791,
+  "lon": 75.80053,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85434,
+  "lon": 75.81989,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.86171,
+  "lon": 75.8034,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85925,
+  "lon": 75.8107,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85889,
+  "lon": 75.81128,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85077,
+  "lon": 75.81656,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "malviya-nagar",
+  "lat": 26.85608,
+  "lon": 75.80069,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.90287,
+  "lon": 75.7318,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.90853,
+  "lon": 75.73003,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.90353,
+  "lon": 75.72174,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.91018,
+  "lon": 75.72152,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.91233,
+  "lon": 75.73214,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.90385,
+  "lon": 75.72133,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.90899,
+  "lon": 75.73562,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.90713,
+  "lon": 75.73324,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.92103,
+  "lon": 75.73053,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.91695,
+  "lon": 75.72646,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.9094,
+  "lon": 75.72318,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "vaishali-nagar",
+  "lat": 26.91454,
+  "lon": 75.72289,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84932,
+  "lon": 75.75344,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84249,
+  "lon": 75.76184,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84876,
+  "lon": 75.7565,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.85507,
+  "lon": 75.75903,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84956,
+  "lon": 75.74985,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84228,
+  "lon": 75.76054,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.85344,
+  "lon": 75.74965,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84972,
+  "lon": 75.75095,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84309,
+  "lon": 75.75709,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84856,
+  "lon": 75.75239,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "mansarovar",
+  "lat": 26.84744,
+  "lon": 75.76746,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sanganer",
+  "lat": 26.81802,
+  "lon": 75.80571,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sanganer",
+  "lat": 26.81857,
+  "lon": 75.80021,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sanganer",
+  "lat": 26.82052,
+  "lon": 75.78768,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sanganer",
+  "lat": 26.81102,
+  "lon": 75.80073,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "sanganer",
+  "lat": 26.82174,
+  "lon": 75.79075,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jhotwara",
+  "lat": 26.95333,
+  "lon": 75.74853,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jhotwara",
+  "lat": 26.94698,
+  "lon": 75.75045,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jhotwara",
+  "lat": 26.95796,
+  "lon": 75.74452,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "jhotwara",
+  "lat": 26.94834,
+  "lon": 75.74834,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "murlipura",
+  "lat": 26.99117,
+  "lon": 75.7655,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "murlipura",
+  "lat": 26.98739,
+  "lon": 75.76667,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "murlipura",
+  "lat": 26.98682,
+  "lon": 75.76564,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "murlipura",
+  "lat": 26.98948,
+  "lon": 75.76319,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.95914,
+  "lon": 75.79371,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.95521,
+  "lon": 75.78806,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.95403,
+  "lon": 75.77917,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.9649,
+  "lon": 75.78113,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.9616,
+  "lon": 75.78669,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.9575,
+  "lon": 75.78484,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.96407,
+  "lon": 75.78777,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.9577,
+  "lon": 75.78667,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "vidhyadhar-nagar",
+  "lat": 26.95229,
+  "lon": 75.78028,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "amer-road",
+  "lat": 26.96567,
+  "lon": 75.83993,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "amer-road",
+  "lat": 26.96669,
+  "lon": 75.83741,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "amer-road",
+  "lat": 26.96527,
+  "lon": 75.84216,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "amer-road",
+  "lat": 26.97023,
+  "lon": 75.84064,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "amer-road",
+  "lat": 26.96367,
+  "lon": 75.83195,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.89515,
+  "lon": 75.769,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.8979,
+  "lon": 75.77077,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.89533,
+  "lon": 75.76222,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.9028,
+  "lon": 75.76954,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.90441,
+  "lon": 75.76274,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.89961,
+  "lon": 75.76661,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.89737,
+  "lon": 75.75999,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sodala",
+  "lat": 26.89582,
+  "lon": 75.76177,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "sodala",
+  "lat": 26.90213,
+  "lon": 75.77175,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "sodala",
+  "lat": 26.89431,
+  "lon": 75.76491,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87356,
+  "lon": 75.7799,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87754,
+  "lon": 75.77699,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87055,
+  "lon": 75.78781,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87227,
+  "lon": 75.7797,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "gopalpura",
+  "lat": 26.86289,
+  "lon": 75.77697,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87738,
+  "lon": 75.77783,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87147,
+  "lon": 75.77271,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87429,
+  "lon": 75.78522,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "gopalpura",
+  "lat": 26.87833,
+  "lon": 75.78308,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jagatpura",
+  "lat": 26.82667,
+  "lon": 75.85498,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jagatpura",
+  "lat": 26.83125,
+  "lon": 75.8589,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jagatpura",
+  "lat": 26.83004,
+  "lon": 75.84923,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jagatpura",
+  "lat": 26.83734,
+  "lon": 75.84722,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "jagatpura",
+  "lat": 26.83359,
+  "lon": 75.8473,
+  "source": "sample"
+ },
+ {
+  "type": "hospital",
+  "name": "Hospital (sample)",
+  "ward": "jagatpura",
+  "lat": 26.82453,
+  "lon": 75.8539,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sitapura",
+  "lat": 26.79583,
+  "lon": 75.82935,
+  "source": "sample"
+ },
+ {
+  "type": "water",
+  "name": "Water point (sample)",
+  "ward": "sitapura",
+  "lat": 26.7978,
+  "lon": 75.83347,
+  "source": "sample"
+ }
+]

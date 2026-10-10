@@ -1,0 +1,17 @@
+{
+ "label": "sample forecast (offline fallback)",
+ "days": [
+  {
+   "temp_c": 41.0,
+   "humidity_pct": 24
+  },
+  {
+   "temp_c": 43.0,
+   "humidity_pct": 20
+  },
+  {
+   "temp_c": 44.5,
+   "humidity_pct": 17
+  }
+ ]
+}
